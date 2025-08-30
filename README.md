@@ -2,6 +2,6 @@
 
 ### Big files to delete
 
-All the output was moved here.
+All the output in "products" repo was moved here.
 
-Generating better structured output, then we'll delete this repo.
+We're generating better structured output in the "products-data" repo, then we'll delete this repo.
